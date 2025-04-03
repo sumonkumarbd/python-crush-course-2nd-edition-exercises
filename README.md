@@ -37,4 +37,4 @@ Contributions are welcome! If you have alternative solutions, optimizations, or 
 ## Acknowledgment
 A huge thanks to **Eric Matthes** for writing this incredible book, which serves as an excellent learning guide for Python enthusiasts worldwide.
 
-Happy Coding! 🚀
+Happy Coding! 🚀🚀
