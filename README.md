@@ -22,7 +22,7 @@ This repository is designed to help anyone who wants to learn Python thoroughly 
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sumonkumarbd/python-crash-course-exercises.git
+   https://github.com/sumonkumarbd/python-crush-course-2nd-edition-exercises.git
    ```
 2. Navigate to the directory:
    ```bash
